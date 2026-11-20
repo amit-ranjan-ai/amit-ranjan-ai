@@ -55,6 +55,26 @@ Responsive personal portfolio built with React, TypeScript and Vite.
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amit-ranjan-ai&show_icons=true&bg_color=EAF6FF&title_color=0969DA&text_color=24476B&icon_color=168BDB&border_color=B6DCFA&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-ranjan-ai&layout=compact&bg_color=EAF6FF&title_color=0969DA&text_color=24476B&border_color=B6DCFA" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amit-ranjan-ai&background=EAF6FF&border=B6DCFA&stroke=168BDB&ring=168BDB&fire=168BDB&currStreakLabel=0969DA&sideLabels=24476B&currStreakNum=0969DA&sideNums=0969DA&dates=52718F" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-ranjan-ai&bg_color=EAF6FF&color=24476B&line=168BDB&point=0969DA&area=true&hide_border=true" width="100%" />
+</p>
+
+
 ⭐ Thanks for visiting my profile!
 
 ### 💡 My Goal

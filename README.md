@@ -1,83 +1,61 @@
+# 👋 Hi, I'm Amit Ranjan
 
-# Hi, I'm Amit Ranjan 👋
+### Aspiring AI Engineer | Python Developer | Full Stack Developer
 
-### Aspiring AI Engineer | Full Stack Developer
+I'm a B.Tech Information Technology graduate passionate about building AI-powered applications and modern web experiences.
 
-I'm a B.Tech Information Technology graduate passionate about Artificial Intelligence, Machine Learning, and Full Stack Development.
-
-I enjoy building practical applications that solve real-world problems and continuously improving my technical skills.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Information Technology – Vinoba Bhave University (2023)
-- 🤖 Interested in AI Engineering and Machine Learning
-- 💻 Building full-stack applications using Python and React
-- 🌱 Currently improving my skills in Generative AI and Full Stack Development
-- 🎯 Looking for opportunities as an AI Engineer or Full Stack Developer
+- 🔭 Building AI-powered applications with Python and Machine Learning.
+- 🌱 Learning Generative AI, Full Stack Development and modern AI technologies.
+- 💻 Interested in AI Engineering, Python Development and Full Stack Engineering.
+- 🎯 Looking for entry-level technical opportunities.
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, Java, C, JavaScript
+**Languages:** Python, JavaScript, TypeScript, Java, C
 
-**AI & Machine Learning:** Scikit-learn, TF-IDF, Cosine Similarity, Recommendation Systems
-
-**Frontend:** HTML, CSS, React.js, TypeScript, Tailwind CSS
+**Frontend:** React.js, HTML5, CSS3, Vite
 
 **Backend:** FastAPI, REST APIs
 
-**Database:** PostgreSQL, MySQL
+**AI/ML:** Scikit-learn, TF-IDF, Cosine Similarity, Hybrid Recommendation Systems
 
-**Tools:** Git, GitHub, VS Code, Vercel, Render
+**Database:** PostgreSQL, MySQL, SQL
 
-## 🌟 Featured Projects
+**Tools:** Git, GitHub, Ruff, Vercel, Render
+
+## 🚀 Featured Projects
 
 ### 1. GameVerse AI
 
-An AI-powered gaming recommendation platform featuring hybrid recommendations, an AI chat assistant, player profiles, achievements, mini-games, and leaderboards.
+An AI-powered gaming recommendation platform.
 
-- **Technologies:** Python, React, FastAPI, PostgreSQL, Scikit-learn
-- 🌐 [Live Demo](https://game-verse-ai.vercel.app/)
-- 💻 [Source Code](https://github.com/amyie567/GameVerse-AI)
+- Hybrid recommendation engine using TF-IDF, cosine similarity and player preferences.
+- FastAPI backend and React frontend.
+- PostgreSQL integration for profiles, achievements and leaderboards.
+- AI chat assistant and interactive mini-games.
 
-### 2. Amit Ranjan – Portfolio
+🌐 [Live Demo](https://game-verse-ai.vercel.app/)
 
-My professional portfolio showcasing my technical skills, projects, education, and resume.
+💻 [GitHub Repository](https://github.com/amit-ranjan-ai/GameVerse-AI)
 
-- **Technologies:** React, TypeScript, Tailwind CSS, Framer Motion
-- 🌐 [Visit Portfolio](https://amit-portfolio-teal.vercel.app/)
-- 💻 [Source Code](https://github.com/amyie567/amit-portfolio)
+### 2. Personal Portfolio
 
-### 3. Guess Number Game
+Responsive personal portfolio built with React, TypeScript and Vite.
 
-A simple interactive number guessing game built using frontend technologies.
+🌐 [Visit Portfolio](https://amit-portfolio-teal.vercel.app/)
 
-- **Technologies:** HTML, CSS, JavaScript
-- 🌐 [Play Game](https://amyie567.github.io/GuessNumber.io/)
+💻 [Source Code](https://github.com/amit-ranjan-ai/amit-portfolio)
 
-## 🎓 Education
+## 📫 Connect With Me
 
-**Bachelor of Technology – Information Technology**
-
-Vinoba Bhave University, Hazaribagh, Jharkhand
-
-2019 – 2023 | CGPA: 7.2/10
-
-## 📜 Certifications
-
-- HackerRank – Java (Basic)
-- HackerRank – CSS (Basic)
-- Unstop – Participation Certificates
-
-## 🤝 Connect With Me
-
-- 🌐 Portfolio: https://amit-portfolio-teal.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/amit-ranjan-aspiring-ai-engineer
-- 💻 GitHub: https://github.com/amyie567
-- 📧 Email: amitranjanhzb7@gmail.com
+- LinkedIn: [Amit Ranjan](https://www.linkedin.com/in/amit-ranjan-ai/)
+- Portfolio: https://amit-portfolio-teal.vercel.app/
+- Email: amitranjanhzb7@gmail.com
+- GitHub: https://github.com/amit-ranjan-ai
 
 ---
+
+⭐ Thanks for visiting my profile!
 
 ### 💡 My Goal
 

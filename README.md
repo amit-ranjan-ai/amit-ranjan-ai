@@ -75,6 +75,32 @@ Responsive personal portfolio built with React, TypeScript and Vite.
 </p>
 
 
+## 🧊 My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,vite,html,css,postgres,mysql,git,github,vercel&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-168BDB?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit-ranjan-ai&label=PROFILE+VIEWS&color=168BDB&style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
+
+
 ⭐ Thanks for visiting my profile!
 
 ### 💡 My Goal

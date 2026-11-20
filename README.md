@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="Amit%20Ranjan%20AI%20Engineer%20Glassmorphism%20Banner.png"
+       width="100%"
+       alt="Amit Ranjan - AI Engineer Glassmorphism Banner"/>
+</p>
+
+
 # 👋 Hi, I'm Amit Ranjan
 
 ### Aspiring AI Engineer | Python Developer | Full Stack Developer
